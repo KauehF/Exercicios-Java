@@ -20,7 +20,7 @@ public class TP01Ex07{
 		
 		double media = Math.sqrt(mult);
 		
-		System.out.println("A media aritimetica dos quatro numeros e: " + media);
+		System.out.println("A media aritimetica dos  numeros e: " + media);
 		
 	}
 	
